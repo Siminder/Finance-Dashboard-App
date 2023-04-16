@@ -17,7 +17,7 @@ const Navbar = (props: Props) => {
         <PixIcon sx={{ fontSize: "28px" }}/>
         <Typography variant='h4' fontSize='16px'>Finanseer</Typography>
       </FlexBetween>
-      {/* LEFT SIDE */}
+      {/* Right Side */}
       <FlexBetween gap='2rem'>
         <Box sx={{"&:hover": {color: palette.primary[100]}}}>
             <Link
